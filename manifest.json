@@ -1,10 +1,10 @@
 {
-	"id": "obsidian-sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.1",
+	"id": "obsidian-auto-linking",
+	"name": "Auto Linking Plugin",
+	"version": "1.0.0",
 	"minAppVersion": "0.12.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
+	"description": "This plugin automatically converts text into a link based on a pattern.",
+	"author": "Matthew Jacobs",
+	"authorUrl": "https://matthewjacobs.io",
 	"isDesktopOnly": false
 }

@@ -1,14 +1,14 @@
 {
-	"name": "obsidian-sample-plugin",
-	"version": "0.12.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"name": "obsidian-auto-linking",
+	"version": "1.0.0",
+	"description": "This plugin automatically converts text into a link based on a pattern.",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
 		"build": "node esbuild.config.mjs production"
 	},
 	"keywords": [],
-	"author": "",
+	"author": "Matthew Jacobs",
 	"license": "MIT",
 	"devDependencies": {
 		"@types/node": "^16.11.6",
